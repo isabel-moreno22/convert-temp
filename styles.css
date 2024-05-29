@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-    color: #333333;
+    color: #8c50ec;
     margin-bottom: 20px;
 }
 
@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #7d00b3;
 }
 
 #output {
